@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+ConsoleApp1/.vs/*
+ConsoleApp1/Packages/*
+ConsoleApp1/ConsoleApp1/bin/*
+ConsoleApp1/ConsoleApp1/obj/*
